@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "30e7e475-9337-4ee7-aaf4-551efa1b963a",
+      "name": "Ayushi",
+      "email": "ayushi1607@gmail.com",
+      "roleId": "admin",
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+      "createdAt": "2024-11-25"
+    },
+    {
+      "id": "30e7e475-9337-4ee7-aaf4-551efa1b963a",
+      "name": "Amit",
+      "email": "amit607@gmail.com",
+      "roleId": "admin",
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "createdAt": "2024-11-25"
+    },
+    {
+        "id": "1",
+        "name": "Ridhi",
+        "email": "ridhi@example.com",
+        "roleId": "admin",
+        "status": "active",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "createdAt": "2024-02-15"
+      },
+      {
+        "id": "2",
+        "name": "Michael Rodriguez",
+        "email": "michael.r@example.com",
+        "roleId": "manager",
+        "status": "active",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+        "createdAt": "2024-02-16"
+      },
+      {
+        "id": "3",
+        "name": "Emma Thompson",
+        "email": "emma.t@example.com",
+        "roleId": "viewer",
+        "status": "inactive",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+        "createdAt": "2024-02-17"
+      }
+  
+    
+  ]
+}
